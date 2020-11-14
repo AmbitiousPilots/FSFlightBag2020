@@ -31,7 +31,7 @@
 :point_right: View local PDF, image and text files <br>
 :point_right: Global METAR / TAF weather with decoder <br>
 :point_right: Flight planning and tracking <br>
-:point_right: Builtin web browser with video support <br>
+:point_right: Built-in web browser with video support <br>
 :point_right: Easily control your radio stack and autopilot <br>
 :point_right: Set Baro in hPa or inHG with auto conversion <br>
 :point_right: Scratchpad for quick notes <br>
@@ -47,7 +47,7 @@
 <br><br>
 
 ## Status & Disclaimer
-Please note that this project is in BETA phase. The software is provided "as is" without any warranty of any kind. Use at your own risk. For discussion, questions, remarks, bug reports, feature requests, head on over to the [forum thread](https://forums.flightsimulator.com/).
+Please note that this project is in BETA phase. The software is provided "as is" without any warranty of any kind. Use at your own risk. For discussion, questions, remarks, bug reports, feature requests, head on over to the [forum thread](https://forums.flightsimulator.com/t/electronic-flight-bag-fsflightbag2020/321340).
 <br><br>
 
 ## License
